@@ -1,0 +1,19 @@
+[
+    {
+      "id": 1,
+      "title": "React 18 Released",
+      "content": "The latest version of React, React 18, has been officially released. It includes several new features and improvements.",
+      "author": "John Doe",
+      "date": "2023-09-28",
+      "image": "https://example.com/images/react-18-released.jpg"
+    },
+    {
+      "id": 2,
+      "title": "JavaScript News: ES2024 Proposals",
+      "content": "Several new features for JavaScript are being proposed for the ES2024 release.",
+      "author": "Jane Smith",
+      "date": "2023-09-29",
+      "image": "https://example.com/images/javascript-news-es2024.jpg"
+    }
+  ]
+  
